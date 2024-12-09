@@ -1,3 +1,1 @@
-WHERE WORDS
-____________
-ABCDEFG
+A home for my IT projects.
