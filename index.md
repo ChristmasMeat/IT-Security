@@ -8,5 +8,5 @@ I dont blog
 # Get in Touch
 ..........
 <ul> 
-<li> <a href="[https://github.com/{{christmasmeat.github.io }}">GitHub</a></li>
+<li> <a href="https://github.com/ChristmasMeat/christmasmeat.github.io">GitHub</a></li>
 </ul>
